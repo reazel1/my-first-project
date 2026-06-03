@@ -6,5 +6,5 @@ This is my first GitHub project.
 A simple calculator that adds two numbers.
 
 ## How to use
-Run the script and follow the promts.
+Run the script and follow the prompts.
 
